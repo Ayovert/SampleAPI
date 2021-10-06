@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = CityInfo.API.csproj
+build_property.ProjectDir = /Users/ayobamiwalletafrica/Projects/APITest/CityInfo.API/
